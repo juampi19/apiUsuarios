@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "cookie",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "email": "test1",
+      "password": "123456"
+    }
+  ]
+}
